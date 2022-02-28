@@ -160,7 +160,7 @@ section{
 }
 
 .project-card {
-    background-color: aliceblue;
+    background-color: #F0F8FF;
     border: 1px solid #fff;
     min-height: 14em;
     width: 23em;
@@ -264,7 +264,6 @@ section{
 
 .download-card {
     padding-bottom: 30px;
-
 }
 
 
