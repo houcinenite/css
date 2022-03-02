@@ -279,7 +279,7 @@ section{
 
 }
 
-.title-game {
+.Game-Download .title  {
     display: flex;
     justify-content: center;
     color: #0C23E5;
