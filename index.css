@@ -279,13 +279,8 @@ section{
 
 }
 
-.Game-Download .title  {
-    display: flex;
-    justify-content: center;
-    color: #0C23E5;
-    font-size: 1em;
-    font-weight: 800;
-    margin-bottom: 30px;
+.title-game h1 {
+    font-size: 1.5em;
 }
 
 @media (max-width:1023px) {
