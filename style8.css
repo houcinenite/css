@@ -296,6 +296,11 @@ section{
     margin: 10px;
     transition: 0.7s ease;
 }
+
+.app-image img{
+    width: 35%;
+
+}
 @media (max-width:1023px) {
     header{
         padding: 12px 20px;
