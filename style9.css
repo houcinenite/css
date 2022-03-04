@@ -301,6 +301,10 @@ section{
     width: 35%;
 
 }
+
+.card-app:hover{
+    transform: scale(1.1);
+}
 @media (max-width:1023px) {
     header{
         padding: 12px 20px;
