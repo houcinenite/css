@@ -305,6 +305,30 @@ section{
 .card-app:hover{
     transform: scale(1.1);
 }
+
+.countdown {
+      color: #FFF;
+      font-size: 36px;
+      font-weight: 400;
+
+      @include breakpoint(480px) {
+        font-size: 42px;
+      }
+
+      @include breakpoint(768px) {
+        font-size: 56px;
+      }
+
+      @include breakpoint(1024px) {
+        font-size: 72px;
+      }
+
+      @include breakpoint(1280px) {
+        font-size: 88px;
+      }
+    }
+  }
+}
 @media (max-width:1023px) {
     header{
         padding: 12px 20px;
